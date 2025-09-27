@@ -1,7 +1,7 @@
 # Olá eu sou o Davi! 
 
 Sou iniciante em desenvolvimento e estou praticando para evoluir minhas habilidades.  
-Atualmente focado em **HTML**, **CSS** e **JavaScript** para criar projetos simples e funcionais.
+Atualmente focado em **HTML**, **CSS** e **JavaScript** para criar projetos.
 
 ## 🚀 Tecnologias que uso
 
