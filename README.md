@@ -1,41 +1,76 @@
-# Olá, eu sou o Davi!
-
+👋 Olá! Eu sou o Davi Stopa Galindo
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Criando+experi%C3%AAncias+digitais;Sempre+aprendendo+algo+novo)
+Mostrar Imagem
+Mostrar Imagem
+
+Desenvolvedor Cloud & IA | Azure Certified | Estudante de Tecnologia
 
 </div>
+🚀 Sobre Mim
+Desenvolvedor júnior apaixonado por Cloud Computing e Inteligência Artificial, com foco em criar soluções inovadoras usando Microsoft Azure. Atualmente cursando o Ensino Médio e construindo uma base sólida em desenvolvimento web e IA.
 
-## 💼 Sobre Mim
+🔭 Atualmente trabalhando em projetos de Visão Computacional e Chatbots Inteligentes
+🌱 Aprendendo mais sobre Python, Azure AI Services e T-SQL
+💡 Interessado em Machine Learning, Automação e Desenvolvimento Web
+🎯 Objetivo: Construir soluções que impactem positivamente as pessoas através da tecnologia
+🛠️ Tecnologias & Ferramentas
+Cloud & IA
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
-Desenvolvedor Front-End em constante evolução, apaixonado por transformar ideias em interfaces funcionais e intuitivas. Cada linha de código é uma oportunidade de aprender e criar algo significativo.
+Desenvolvimento Web
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
-**Atualmente focado em:** Dominar os fundamentos do desenvolvimento web e construir projetos práticos que resolvem problemas reais.
+Banco de Dados
+Mostrar Imagem
 
----
+Ferramentas
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
-## 🛠️ Stack Tecnológica
+🏆 Certificações
+☁️ Microsoft AZ-900 - Fundamentos de Computação em Nuvem (Azure)
+🤖 Microsoft AI-900 - Fundamentos de Inteligência Artificial (Azure AI)
+🐍 Python - Fundamentos de Computação e Automação (Santander Open Academy)
+💡 Prompt Responsável - Maximizar a IA no seu negócio (Santander Open Academy)
+🌐 Desenvolvimento Web - HTML, CSS e JavaScript (Fundação Bradesco)
+💼 Projetos em Destaque
+🔍 Sistema de Reconhecimento Visual com IA
+Solução de visão computacional usando Azure Cognitive Services para identificação, contagem e classificação automática de objetos em imagens.
 
+Tecnologias: Azure AI, Computer Vision API, Python
+Recursos: Identificação de padrões, separação por características (cores), geração de legendas descritivas
+💬 Chatbot Inteligente para Atendimento
+Assistente virtual conversacional com IA capaz de interagir com usuários e processar pedidos automaticamente.
+
+Tecnologias: Azure Bot Service, IA Conversacional
+Recursos: Navegação interativa, processamento automático de pedidos
+🌐 Aplicações Web Interativas
+Portfólio de projetos web incluindo Dashboard, sistema de registro e gerenciamento de tarefas.
+
+Tecnologias: HTML5, CSS3, JavaScript
+Recursos: Interface responsiva, visualização de dados, CRUD completo
+📊 Estatísticas do GitHub
 <div align="center">
+Mostrar Imagem
 
-### Core Technologies
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-
-**HTML5** • **CSS3** • **JavaScript**
+Mostrar Imagem
 
 </div>
+🌐 Idiomas
+🇧🇷 Português: Nativo
+🇺🇸 Inglês: Avançado (Conversacional)
+🇪🇸 Espanhol: Básico
+📫 Como me encontrar
+💼 LinkedIn: [Seu perfil aqui]
+📧 Email: [seu-email@exemplo.com]
+🌐 Portfolio: [Em desenvolvimento]
+<div align="center">
+⚡ "A tecnologia é melhor quando aproxima as pessoas" - Matt Mullenweg
+Vamos construir algo incrível juntos! 🚀
 
----
-
-## 📊 O Que Eu Faço
-```javascript
-const davi = {
-  code: ["HTML5", "CSS3", "JavaScript"],
-  focus: "Front-End Development",
-  learning: "Aprimorando fundamentos e boas práticas",
-  challenge: "Criar projetos funcionais e responsivos",
-  passion: "Transformar designs em código limpo"
-};
+</div>
