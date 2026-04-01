@@ -1,128 +1,97 @@
-# 👋 Ei! Eu sou o Davi
+# 👋 Hi! I'm Davi
 
-### Desenvolvedor Cloud & IA | Azure Certified ☁️🤖
-
-<details>
-<summary>🎯 O que eu faço? (clique para expandir)</summary>
-<br>
-
-🤖 Desenvolvimento de **chatbots inteligentes** com IA conversacional  
-👁️ Sistemas de **visão computacional** para reconhecimento de objetos  
-☁️ Soluções em **Azure** (porque a nuvem é o limite!)  
-💻 Aplicações web interativas e responsivas  
-
-</details>
+### 💻 Computer Science Student | Cloud & AI Enthusiast ☁️🤖
 
 ---
 
-## 🛠️ Minha Stack
+## 👨‍💻 About Me
 
-<details open>
-<summary><b>☁️ Cloud & IA</b></summary>
-<br>
+I am currently pursuing a degree in Computer Science, focused on building a solid foundation in software development and problem-solving.
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI Services](https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoft&logoColor=white)
+I have experience with web development and cloud-based solutions, and I am continuously improving my skills by working on practical projects and learning new technologies.
 
-</details>
+---
 
-<details>
-<summary><b>💻 Web Development</b></summary>
-<br>
+## 🚀 What I Do
 
+- 🤖 Exploring AI concepts and intelligent systems  
+- ☁️ Learning cloud solutions with Azure  
+- 💻 Building responsive and interactive web applications  
+- 📚 Constantly improving programming fundamentals  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ☁️ Cloud & AI
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+### 🧠 Programming
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🗄️ Database
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔧 Ferramentas</b></summary>
-<br>
-
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</details>
+---
+
+## 📚 Currently Learning
+
+- C Programming (logic and memory management)  
+- JavaScript (DOM and interactivity)  
+- Computer Science fundamentals  
+- Cloud concepts and services  
 
 ---
 
-## 🏆 Conquistas Desbloqueadas
+## 🏆 Certifications
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure" />
-      <br><sub>Azure Fundamentals</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft-AI--900-0089D6?style=for-the-badge&logo=microsoft" />
-      <br><sub>AI Fundamentals</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python" />
-      <br><sub>Santander Academy</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Web_Dev-Certified-E34F26?style=for-the-badge&logo=html5" />
-      <br><sub>Full Stack</sub>
-    </td>
-  </tr>
-</table>
+- 🎓 Microsoft Azure Fundamentals (AZ-900)  
+- 🎓 Microsoft AI Fundamentals (AI-900)  
+- 🎓 Python Certification (Santander Academy)  
+- 🎓 Web Development Certification  
 
 ---
 
-## 🚀 Projetos que Valem a Pena Ver
+## 🚀 Featured Projects
 
-<details>
-<summary>🔍 <b>Sistema de Reconhecimento Visual</b></summary>
-<br>
+### 🔍 Visual Recognition System
+AI-based system for identifying objects in images  
 
-IA que identifica e classifica objetos em imagens
+**Tech:** `Python` `Azure AI`  
+- Object detection  
+- Image classification  
+- Automated descriptions  
 
-**Tech Stack:** `Azure AI` `Computer Vision API` `Python`
+---
 
-**Features:**
-- ✅ Identificação automática de objetos
-- ✅ Classificação por características (cores, tipos)
-- ✅ Geração de legendas descritivas
+### 💬 Intelligent Chatbot
+Virtual assistant for automated interactions  
 
-</details>
+**Tech:** `Azure Bot Service`  
+- Natural interaction  
+- Automated responses  
+- User-friendly flow  
 
-<details>
-<summary>💬 <b>Chatbot Inteligente</b></summary>
-<br>
+---
 
-Assistente virtual que processa pedidos automaticamente
+### 🌐 Interactive Dashboard
+Responsive web application for data visualization  
 
-**Tech Stack:** `Azure Bot Service` `IA Conversacional`
-
-**Features:**
-- ✅ Interação natural com usuários
-- ✅ Processamento automático de pedidos
-- ✅ Navegação intuitiva
-
-</details>
-
-<details>
-<summary>🌐 <b>Dashboard Interativa</b></summary>
-<br>
-
-Visualização de dados com interface moderna
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `T-SQL`
-
-**Features:**
-- ✅ Interface responsiva
-- ✅ Visualização de dados em tempo real
-- ✅ Sistema CRUD completo
-
-</details>
+**Tech:** `HTML` `CSS` `JavaScript` `T-SQL`  
+- Responsive design  
+- CRUD system  
+- Data visualization  
 
 ---
 
@@ -138,24 +107,25 @@ Visualização de dados com interface moderna
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-🇧🇷 **Português** - Nativo  
-🇺🇸 **English** - Advanced (Conversational)  
-🇪🇸 **Español** - Básico
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Advanced  
+🇪🇸 Spanish — Basic  
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
 ---
 
 <div align="center">
 
-### 💡 Sempre aberto para colaborações e novos desafios!
+💡 Always open to learning, collaboration, and new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidev3)
-
----
-
-<sub>⭐ Se você gostou do meu perfil, deixe uma estrela nos meus projetos!</sub>
+⭐ Feel free to explore my repositories!
 
 </div>
