@@ -166,6 +166,8 @@ struct Developer davi = {
 
 </div>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/davidev3?theme=dark&extension=heatmap)](...)
+
 ---
 
 <div align="center">
