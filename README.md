@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student &nbsp;|&nbsp; ☁️ Cloud & AI Enthusiast &nbsp;|&nbsp; 🌐 Web Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Cloud+%2B+AI+%3D+the+future+I%27m+chasing+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6;C+%7C+Python+%7C+JS+%7C+Azure+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Cloud+%2B+AI+%3D+the+future+I%27m+chasing+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6;HTML+%7C+CSS+%7C+JS+%7C+Azure+%7C+SQL)](https://git.io/typing-svg)
 
 <br/>
 
