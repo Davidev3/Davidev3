@@ -1,36 +1,55 @@
-# Olá, eu sou o Davi 👋
+<div align="center">
 
-Estudante de Ciência da Computação, com foco em desenvolvimento de software. Construo projetos para aprofundar meus conhecimentos em programação, interfaces web e fundamentos de sistemas. Busco oportunidades de estágio e início de carreira em desenvolvimento.
+# Davi Stopa Galindo
 
-[LinkedIn](https://www.linkedin.com/in/davi-stopa-a31094352) · [GitHub](https://github.com/Davidev3)
+### Computer Science Student · Software Development · C · Web
 
-## Tecnologias
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-stopa-a31094352)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidev3)
 
-- **Desenvolvimento web:** HTML, CSS e JavaScript
-- **Programação:** C e Python
-- **Banco de dados:** SQL Server e T-SQL
-- **Ferramentas:** Git, GitHub e VS Code
-- **Fundamentos de nuvem e IA:** Microsoft Azure
+</div>
 
-## Projetos
+## About me
 
-### [Sistema de cadastro no terminal](https://github.com/Davidev3/minishell)
-Aplicação em C com interface `ncurses` para cadastrar, listar, buscar, editar e remover registros. Usa estruturas, arrays, navegação por teclado e exclusão lógica. Os dados são mantidos em memória durante a execução.
+I am a Computer Science student building practical projects in C and web development. I enjoy learning how interfaces, data structures, and application flows work, and I am looking for an internship or an entry-level software development opportunity.
 
-### [Interface de login](https://github.com/Davidev3/LOGIN-PAGE)
-Estudo de interface web com HTML, CSS e JavaScript, com animação de partículas, campos de entrada e estilo glassmorphism. É uma demonstração de frontend; não implementa autenticação real.
+## Tech stack
 
-### [Calculadora de linha de comando](https://github.com/Davidev3/miniature-calculator)
-Exercício em C com quatro operações aritméticas, menu interativo e tratamento de divisão por zero.
+**Web:** HTML, CSS, JavaScript  
+**Programming:** C, Python  
+**Database:** SQL Server, T-SQL  
+**Tools:** Git, GitHub, VS Code  
+**Cloud and AI fundamentals:** Microsoft Azure
 
-## Formação e estudos
+## Featured projects
 
-- Graduando em Ciência da Computação
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft AI Fundamentals (AI-900)
-- Estudos de SQL Server e T-SQL
-- Lógica de Programação — SENAI
+### [Terminal registration system in C](https://github.com/Davidev3/minishell)
+A terminal interface built with `ncurses` to create, list, search, edit, and soft-delete records. Uses structs, arrays, keyboard navigation, and in-memory state. Records are not persisted between runs.
 
-## Em desenvolvimento
+### [Glassmorphism login UI](https://github.com/Davidev3/LOGIN-PAGE)
+A responsive frontend study using HTML, CSS, JavaScript, and Canvas particles. The form demonstrates browser validation and UI feedback; it does not perform real authentication.
 
-Estou aprofundando meus estudos em C, JavaScript, estruturas de dados e desenvolvimento de aplicações completas.
+### [Command-line calculator in C](https://github.com/Davidev3/miniature-calculator)
+A foundational C exercise with four arithmetic operations, an interactive menu, and division-by-zero handling.
+
+## Certifications and coursework
+
+| Program | Provider |
+|---|---|
+| Azure Fundamentals (AZ-900) | Microsoft |
+| AI Fundamentals (AI-900) | Microsoft |
+| Programming Logic | SENAI |
+| SQL Server and T-SQL studies | Database coursework |
+
+## Currently learning
+
+C programming, JavaScript and DOM manipulation, data structures and algorithms, SQL Server, and applied cloud and AI fundamentals.
+
+## GitHub stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidev3&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidev3&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
