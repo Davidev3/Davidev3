@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-stopa-a31094352)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidev3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Davidev3/)
 
 </div>
 
@@ -51,5 +52,13 @@ C programming, JavaScript and DOM manipulation, data structures and algorithms, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidev3&show_icons=true&theme=github_dark&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidev3&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+## LeetCode
+
+<div align="center">
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/Davidev3?theme=dark&font=Inter)](https://leetcode.com/u/Davidev3/)
 
 </div>
