@@ -24,14 +24,13 @@ I am a Computer Science student building practical projects in C and web develop
 
 ## Featured projects
 
-### [Terminal registration system in C](https://github.com/Davidev3/minishell)
-A terminal interface built with `ncurses` to create, list, search, edit, and soft-delete records. Uses structs, arrays, keyboard navigation, and in-memory state. Records are not persisted between runs.
+[![Terminal registration system](https://github-readme-stats.vercel.app/api/pin/?username=Davidev3&repo=minishell&theme=github_dark&hide_border=true)](https://github.com/Davidev3/minishell)
+[![Glassmorphism login UI](https://github-readme-stats.vercel.app/api/pin/?username=Davidev3&repo=LOGIN-PAGE&theme=github_dark&hide_border=true)](https://github.com/Davidev3/LOGIN-PAGE)
+[![Command-line calculator](https://github-readme-stats.vercel.app/api/pin/?username=Davidev3&repo=miniature-calculator&theme=github_dark&hide_border=true)](https://github.com/Davidev3/miniature-calculator)
 
-### [Glassmorphism login UI](https://github.com/Davidev3/LOGIN-PAGE)
-A responsive frontend study using HTML, CSS, JavaScript, and Canvas particles. The form demonstrates browser validation and UI feedback; it does not perform real authentication.
-
-### [Command-line calculator in C](https://github.com/Davidev3/miniature-calculator)
-A foundational C exercise with four arithmetic operations, an interactive menu, and division-by-zero handling.
+- **[Terminal registration system in C](https://github.com/Davidev3/minishell)** — A keyboard-driven `ncurses` app with create, list, search, edit, and soft-delete operations. Data stays in memory during the session.
+- **[Glassmorphism login UI](https://github.com/Davidev3/LOGIN-PAGE)** — A responsive HTML/CSS/JavaScript demo with Canvas particles and browser validation. It does not authenticate users.
+- **[Command-line calculator in C](https://github.com/Davidev3/miniature-calculator)** — An introductory project covering arithmetic, menu flow, and division-by-zero handling.
 
 ## Certifications and coursework
 
