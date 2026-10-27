@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+<title id="title">Davi Stopa Galindo — Python and Software Development</title>
+<desc id="desc">Animated terminal-inspired profile banner. Computer Science student building with Python.</desc>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1c3048" stroke-width="0.6"/></pattern>
+  <linearGradient id="edge"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#39d0d8"/></linearGradient>
+</defs>
+<style>
+  text {font-family: Consolas, 'Liberation Mono', monospace}
+  .cursor {animation: blink 1.4s steps(2,end) infinite}
+  .signal {animation: pulse 3s ease-in-out infinite}
+  .line {stroke-dasharray: 160 1000; animation: flow 8s ease-in-out infinite}
+  @keyframes blink {50% {opacity:0}}
+  @keyframes pulse {50% {opacity:.35}}
+  @keyframes flow {from {stroke-dashoffset:1160} to {stroke-dashoffset:0}}
+  @media (prefers-reduced-motion: reduce) {.cursor,.signal,.line {animation:none}}
+</style>
+<rect width="1000" height="340" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="338" rx="17" fill="url(#grid)" stroke="#25364a"/>
+<path d="M30 1H970" stroke="url(#edge)" stroke-width="3"/>
+<circle cx="38" cy="32" r="5" fill="#ff7b72"/>
+<circle cx="56" cy="32" r="5" fill="#e3b341"/>
+<circle cx="74" cy="32" r="5" fill="#3fb950"/>
+<text x="102" y="37" fill="#8b949e" font-size="13">davidev3 / profile</text>
+<text x="42" y="98" fill="#58a6ff" font-size="15" letter-spacing="3">HELLO, WORLD.</text>
+<text x="39" y="154" fill="#f0f6fc" font-size="45" font-weight="700">Davi Stopa Galindo</text>
+<text x="42" y="191" fill="#c9d1d9" font-size="17">Computer Science student</text>
+<text x="42" y="229" fill="#39d0d8" font-size="19">&gt; building with Python</text>
+<rect class="cursor" x="310" y="211" width="10" height="22" fill="#39d0d8"/>
+<text x="42" y="297" fill="#8b949e" font-size="13">LEARN. UNDERSTAND. BUILD.</text>
+<rect x="700" y="80" width="260" height="174" rx="10" fill="#101923" stroke="#30445b"/>
+<text x="720" y="111" fill="#8b949e" font-size="12">~/learning.py</text>
+<path d="M700 124H960" stroke="#30445b"/>
+<text x="720" y="152" font-size="14" fill="#ff7b72">while <tspan fill="#79c0ff">learning</tspan>:</text>
+<text x="739" y="180" font-size="14" fill="#d2a8ff">practice<tspan fill="#c9d1d9">()</tspan></text>
+<text x="739" y="208" font-size="14" fill="#d2a8ff">build<tspan fill="#c9d1d9">()</tspan></text>
+<text x="739" y="236" font-size="14" fill="#d2a8ff">improve<tspan fill="#c9d1d9">()</tspan></text>
+<circle class="signal" cx="716" cy="292" r="4" fill="#3fb950"/>
+<text x="730" y="297" font-size="11" fill="#c9d1d9">OPEN TO INTERNSHIPS / JUNIOR ROLES</text>
+<path class="line" d="M30 339H970" stroke="url(#edge)" stroke-width="2"/>
+</svg>
